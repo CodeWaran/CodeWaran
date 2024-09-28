@@ -10,5 +10,5 @@ I am a Full Stack Software Developer with over 2 years of expertise in a variety
 <h2 align="center"> My skills </h2>
 
 <p align="center">
-<img src=https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react,nodejs,mongodb,mysql,bootstrap,tailwind,java,spring,rxjs&perline=3)](https://skillicons.dev)" />
+<img src=https://skillicons.dev/icons?i=git,github,bitbucket,gitlab,gcp,postman,idea,eclipse,vscode,webstorm,html,css,sass,js,ts,angular,react,nodejs,npm,mongodb,mysql,bootstrap,tailwind,java,spring,maven,rxjs,cypress&perline=7 (https://skillicons.dev)" />
 </p>
