@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2 align="center"> Full Stack Software Developer </h2>
 
-<!--
-**CodeWaran/CodeWaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello!
 
-Here are some ideas to get you started:
+I am Lokeshwaran , personal space for projects with learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Full Stack Software Developer with over 2 years of expertise in a variety of fields.
+
+
+<h2 align="center"> My skills </h2>
+
+<p align="center">
+<img src=https://skillicons.dev/icons?i=html,css,sass,js,ts,angular,react,nodejs,mongodb,mysql,bootstrap,rxjs,)](https://skillicons.dev)" />
+</p>
